@@ -2,7 +2,9 @@
 🧑‍💻 At the moment I mainly make FiveM Scripts, I currently work in several scripts that use overextended also I am currently learning new things and mainly coding.<br>🚀I always try to aim for something new and try something new! so according to my mood and passion I want to try new asos and produce them!<br>
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
+ ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat"/>   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EppuDevelopment&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
