@@ -1,3 +1,6 @@
+## 🧑‍💻 About Me: 
+Hey, im eppu im young developer that is interested at web development and fivem development, i have been doing lua some years but i will not say im the best at there, also i always wanted to make ui's at fivem and usally web development!
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/R34NSUhGUV) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/eppuval) 
