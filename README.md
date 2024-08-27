@@ -3,6 +3,4 @@
   <samp><b>If u cannot be sigma, then be beta.</b></samp><br>
 </p>
 
-<p>
-<samp><b>Need To know ._.</b> [![](https://visitcount.itsvg.in/api?id=Eppu&icon=0&color=0)](https://visitcount.itsvg.in)</samp>
-</p>
+[![](https://visitcount.itsvg.in/api?id=EppuDevelopment&icon=0&color=0)](https://visitcount.itsvg.in)
