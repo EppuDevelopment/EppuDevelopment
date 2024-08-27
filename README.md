@@ -1,6 +1,6 @@
 
 
-## 🧑‍💻 About Me: 
+## 🧑‍💻:
 Ermmmm..... What the sigma 
 
 
