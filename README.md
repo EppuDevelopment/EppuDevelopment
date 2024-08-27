@@ -1,20 +1,4 @@
-
-
-## 🧑‍💻:
-Ermmmm..... What the sigma 
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/R34NSUhGUV) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/eppuval) 
-
-# 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EppuDevelopment&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=EppuDevelopment&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EppuDevelopment&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=EppuDevelopment&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://giphy.com/embed/0GVvelklkDHazj20yx" height="250"><br>
+  <samp><b>Sigma is every betas inside, Sigma wolf is skibid sigma.</b></samp><br>
+</p>
