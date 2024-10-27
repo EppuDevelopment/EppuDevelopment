@@ -11,4 +11,8 @@
 
 
 <h3 align="left">My Love:</h3>
-<p align="left"> <a ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)  </a> </p>
+<p align="left"> 
+<a>
+  ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)      
+</a>
+</p>
