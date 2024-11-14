@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl2cjUzOW5wOXZpZmt0eHpraWJ1aHFoemluZzJibHNxeG5kbWpiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WTPXw3b50BH5JFWxft/giphy.gif" width="700" height="300"><br>
-  <samp><b>Text is like text.</b></samp><br>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl2cjUzOW5wOXZpZmt0eHpraWJ1aHFoemluZzJibHNxeG5kbWpiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WTPXw3b50BH5JFWxft/giphy.gif" width="1200" height="300"><br>
+  <samp><b>🌲</b></samp><br>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=EppuDevelopment&icon=0&color=0)](https://visitcount.itsvg.in)
