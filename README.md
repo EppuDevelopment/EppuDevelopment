@@ -4,10 +4,10 @@
 
     
     
-   # I'm <span style="color:#AAFF00;">Eppu</span> 👋
+   # I'm <span style="color:#AAFF00;">Eppu</span> 💻
    
-  <img src="https://i.imgur.com/8xWCaXt.png" width="1200" height="300"><br>
-    <img src="https://komarev.com/ghpvc/?username=EppuDevelopment&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://i.imgur.com/8xWCaXt.png" width="1200" height="320"><br>
+    <img src="https://komarev.com/ghpvc/?username=EppuDevelopment&color=dark&style=flat-square" alt="Profile views" />
   <br>
 </p>
 </div>
@@ -28,6 +28,7 @@
 **Frameworks & Tools**
 <p style="margin: 1rem 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60" style="margin: 0 20px;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next JS" width="60" height="60" style="margin: 0 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60" style="margin: 0 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" style="margin: 0 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" alt="Bun" width="60" height="60" style="margin: 0 20px;" />
