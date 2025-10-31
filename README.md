@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl2cjUzOW5wOXZpZmt0eHpraWJ1aHFoemluZzJibHNxeG5kbWpiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WTPXw3b50BH5JFWxft/giphy.gif](https://i.imgur.com/8xWCaXt.png)" width="1200" height="300"><br>
+  <img src="https://i.imgur.com/8xWCaXt.png" width="1200" height="300"><br>
     <img src="https://komarev.com/ghpvc/?username=EppuDevelopment&color=blue&style=flat-square" alt="Profile views" />
   <br>
 </p>
