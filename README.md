@@ -1,4 +1,7 @@
 <p align="center">
+    # I'm <span style="color:#AAFF00;">Eppu</span> 💻
+
+
   <img src="https://i.imgur.com/8xWCaXt.png" width="1200" height="300"><br>
     <img src="https://komarev.com/ghpvc/?username=EppuDevelopment&color=blue&style=flat-square" alt="Profile views" />
   <br>
