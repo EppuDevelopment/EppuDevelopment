@@ -7,7 +7,7 @@
    # I'm <span style="color:#AAFF00;">Eppu</span> 💻
    
   <img src="https://i.imgur.com/8xWCaXt.png" width="1200" height="320"><br>
-    <img src="https://komarev.com/ghpvc/?username=EppuDevelopment&color=dark&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=EppuDevelopment&color=darkblue&style=flat-square" alt="Profile views" />
   <br>
 </p>
 </div>
