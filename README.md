@@ -1,16 +1,14 @@
    
+<p align="center">
 
-<div <p align="center">
+# I'm <span style="color:#AAFF00;">Eppu</span> 💻
 
-    
-    
-   # I'm <span style="color:#AAFF00;">Eppu</span> 💻
-   
-  <img src="https://i.imgur.com/HoQZ1OO.gif" width="1200" height="320"><br>
-    <img src="https://komarev.com/ghpvc/?username=EppuDevelopment&color=blue&style=flat-square" alt="Profile views" />
-  <br>
+<img src="https://i.imgur.com/HoQZ1OO.gif" width="1200" height="320"><br>
+
+<img src="https://komarev.com/ghpvc/?username=EppuDevelopment&color=blue&style=flat-square" alt="Profile views" />
+
 </p>
-</div>
+
 
 
 
